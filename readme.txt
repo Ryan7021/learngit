@@ -1,2 +1,2 @@
-Git is abersion control system.
+Git is distributed version control system.
 Git is free software.
